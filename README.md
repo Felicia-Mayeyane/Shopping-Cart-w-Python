@@ -19,3 +19,6 @@ Easy Shopping Cart using Python Programming Language
 
 <h2> Demo Video</h2> 📹
 
+
+https://github.com/Felicia-Mayeyane/Shopping-Cart-w-Python/assets/119903285/e469e25b-b5d5-4ec9-8c74-93a50fb47097
+
